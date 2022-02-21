@@ -31,10 +31,18 @@ public class Example12 {
                 break;
             }
             else {
+<<<<<<< HEAD
                 System.out.println("Kullanıcı adı veya Şifre Hatalı!");
                 System.out.println("Kalan giriş hakkı --> "+kalanHak);
                 System.out.println("_____________________");
                 kalanHak--;
+=======
+                kalanHak--;
+                System.out.println("Kullanıcı adı veya Şifre Hatalı!");
+                System.out.println("Kalan giriş hakkı --> "+kalanHak);
+                System.out.println("_____________________");
+
+>>>>>>> 0388960 (My java examples)
             }
         }
 
